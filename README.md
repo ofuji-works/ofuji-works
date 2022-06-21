@@ -1,8 +1,8 @@
 
 
-## skill
+# skill
 
-#### frontend
+## frontend
 ![javascript logo](https://user-images.githubusercontent.com/66583021/174828062-b3051846-fa5f-4623-b5e9-d61660398a96.svg)
 ![typescript-original logo](https://user-images.githubusercontent.com/66583021/174828098-ae621e39-d030-4911-9851-b425faec35b9.svg)
 ![nodejs logo](https://user-images.githubusercontent.com/66583021/174828075-b1fff0b7-9947-42b0-ade0-56782cc40cb2.svg)
@@ -16,7 +16,7 @@
 ![apollo logo](https://user-images.githubusercontent.com/66583021/174828138-20c3483a-4ee0-4a64-b564-02960717f98f.svg)
 
 
-#### backend
+## backend
 ![php logo](https://user-images.githubusercontent.com/66583021/174828077-4191f7eb-13e6-4108-a797-471b2934b970.svg)
 ![Laravel logo](https://user-images.githubusercontent.com/66583021/174828070-6d9d9f5c-1ab6-43ac-99bb-c143aa10447c.svg)
 ![Ruby_logo logo](https://user-images.githubusercontent.com/66583021/174828096-83686d5d-6f92-43b8-85f4-0f9afc3b2283.svg)
