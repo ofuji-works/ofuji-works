@@ -2,6 +2,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ofuji-works&show_icons=true&count_private=true&hide_rank=true&hide_title=true&theme=Gradient" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofuji-works&layout=compact&hide_title=true&theme=Gradient" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ofuji-works&repo=blog-app" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ofuji-works&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 # skill
 
