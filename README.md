@@ -1,4 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuji-works&show_icons=true&count_private=true&hide_rank=true&hide_title=true)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ofuji-works&show_icons=true&count_private=true&hide_rank=true&hide_title=true&theme=Gradient" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofuji-works&layout=compact&hide_title=true&theme=Gradient" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ofuji-works&repo=blog-app" />
 
 # skill
 
