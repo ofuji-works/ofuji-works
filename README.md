@@ -4,10 +4,16 @@
 <p>
 
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofuji-works&layout=compact&theme=Gradient&hide_title=true&hide_border=true"  />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ofuji-works&show_icons=true&count_private=true&hide_rank=true&theme=Gradient&hide_title=true&hide_border=true" />
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ofuji-works&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-<div>
+    <div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofuji-works&layout=compact&theme=Gradient&hide_title=true&hide_border=true"  />
+    </div>
+    <div>    
+        <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ofuji-works&show_icons=true&count_private=true&hide_rank=true&theme=Gradient&hide_title=true&hide_border=true" />
+    </div>
+    <div>
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ofuji-works&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    </div>
+</div>
 
 ## Language
 <div style="display:flex;">
