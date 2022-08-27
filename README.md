@@ -1,4 +1,4 @@
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofuji-works&show_icons=true&count_private=true&hide_rank=true&hide_title=true)
 
 # skill
 
